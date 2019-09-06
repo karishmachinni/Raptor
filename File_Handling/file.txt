@@ -2,4 +2,5 @@ Hello Raptor
 Hello Python
 Hello Karishma
 Hello Sowji
-
+Hello Lawrence
+Variable R not found!
